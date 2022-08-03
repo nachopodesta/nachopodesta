@@ -9,7 +9,7 @@ I am a lawyer by profession, but my passion has always been computers. I am curr
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [nachopodesta@gmail.com](mailto:nachopodesta@gmail.com)
 *   🧠  I'm learning R
-*   🤝  I'm open to collaborating on Python, Power BI, Tableau, Excel, R### Skills<p align="left">
+*   🤝  I'm open to collaborating on Python, Power BI, Tableau, Excel, R<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
