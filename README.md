@@ -1,4 +1,4 @@
-Hi 👋 My name is Ignacio Podestá
+My name is Ignacio Podestá
 ================================
 
 Data Analyst & Data Scientist
